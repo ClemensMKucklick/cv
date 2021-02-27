@@ -1,0 +1,37 @@
+<html><head><meta charset="utf-8"><title>💛Clemens personal site </title>
+</head>
+
+
+
+h1 {
+  color:red;
+  font-size: 50px;
+  margin:100px;
+}
+
+h2 {
+  margin-left: 75px;
+}
+
+h3 {
+  margin-left: 150px;
+}
+
+
+body {
+  background-color: skyblue;
+margin:100px;
+}
+p {
+  font-family: arial;
+  color: green;
+  font-size: 10px;
+}
+
+hr {
+  height: 30px;
+  border-width: 5px;
+  color: green;
+}
+
+</html>
